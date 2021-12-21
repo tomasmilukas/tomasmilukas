@@ -1,6 +1,6 @@
 - Hey, I’m @tomasmilukas :)
 - I’m learning about software development in web3
-- My current stack: JavaScript, NodeJS, React, Solidity
+- My current stack: JavaScript, Solidity, React
 - I’m currently looking to collaborate on any DeFi project
 - Reach me by emailing tomasmilukas0@gmail.com
 
