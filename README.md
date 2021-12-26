@@ -1,8 +1,9 @@
-- Hey, I’m @tomasmilukas :)
+- Hey, I’m Tomas Milukas
 - I’m learning about software development in web3
-- My current stack: JavaScript, Solidity, React
-- I’m currently looking to collaborate on any DeFi project
-- Reach me by emailing tomasmilukas0@gmail.com
+- My current stack: JavaScript, Python, Solidity and React.
+- Wanna reach out? Find me on Twitter: @tomasmilukas or just email me at: tomasmilukas0@gmail.com
+
+I also write about crypto/DeFi/CompSci stuff here: https://tomasmilukasblog.com/
 
 <!---
 tomasmilukas/tomasmilukas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
