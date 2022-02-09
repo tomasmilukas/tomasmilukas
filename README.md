@@ -1,7 +1,7 @@
-- Hey, I’m Tomas Milukas
-- I’m learning about software development in web3
-- My current stack: JavaScript, Python, Solidity and React.
-- Wanna reach out? Find me on Twitter: https://twitter.com/tomasmilukas or just email me at: tmilukas@gmail.com
+- Hey, I’m Tomas Milukas :)
+- Currently learning everything surrounding crypto/DeFi and trying to find a dev job within the space!
+- My current stack: Solidity, JavaScript, Python.
+- Wanna reach out? DM me on Twitter: https://twitter.com/tomasmilukas or email me: tmilukas@gmail.com
 
 I also write about crypto/DeFi/CompSci stuff here: https://tomasmilukasblog.com/
 
