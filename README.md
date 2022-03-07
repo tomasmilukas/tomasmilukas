@@ -1,7 +1,7 @@
 - Hey, I’m Tomas Milukas :)
 - Currently learning everything surrounding Crypto/DeFi and trying to find a job (dev/algo trading/investment analyst) within the space!
 - My current stack: Solidity, JavaScript, Python.
-- Wanna reach out? Twitter: https://twitter.com/tomasmilukas, Email: tmilukas@gmail.com, Discord: forrestfear#9808
+- Wanna reach out? Twitter: https://twitter.com/tomasmilukas, Email: tmilukas@gmail.com, Discord: forrestfear#9808, Telegram: @tomasmilukas
 
 I also write about Crypto/DeFi/CompSci stuff here: https://tomasmilukasblog.com/
 
