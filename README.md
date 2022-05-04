@@ -1,6 +1,4 @@
-- Hey, I’m Tomas Milukas :)
-- My current stack: Solidity, JavaScript, Python.
-- Wanna reach out? Twitter: https://twitter.com/tomasmilukas, Email: tomasmilukas0@gmail.com, Telegram: @tomasmilukas
+Wanna reach out? Twitter: https://twitter.com/tomasmilukas, Email: tomasmilukas0@gmail.com, Telegram: @tomasmilukas
 
 I write about Crypto/DeFi/CompSci/Math stuff here: https://tomasmilukasblog.com/
 
